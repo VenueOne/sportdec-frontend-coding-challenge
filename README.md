@@ -27,3 +27,4 @@ While you're free to choose the technologies you wish to use to complete this ch
 - Publish your submission to Github as a repo, adding the following Sportdec team members as collaborators:
   - `@dereklawless`
   - `@onlydave`
+  - `@mkempf`
