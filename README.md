@@ -25,6 +25,7 @@ While you're free to choose the technologies you wish to use to complete this ch
 ## Guidelines
 - Do not include any private details with your submission. We suggest you make any private values such as API keys you may use configurable
 - Publish your submission to Github as a repo, adding the following Sportdec team members as collaborators:
-  - `@dereklawless`
-  - `@onlydave`
-  - `@mkempf`
+  - @kevint590
+  - @ramonvicelli
+  - @gillesmedeiros
+  - @tamihh
